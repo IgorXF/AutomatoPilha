@@ -1,0 +1,5 @@
+com\mycompany\automatopilha\classes\Transicao.class
+com\mycompany\automatopilha\classes\AutomatoComPilha.class
+com\mycompany\automatopilha\files\FilePersistence.class
+com\mycompany\automatopilha\AutomatoPilha.class
+com\mycompany\automatopilha\files\SerializadorCSV.class
