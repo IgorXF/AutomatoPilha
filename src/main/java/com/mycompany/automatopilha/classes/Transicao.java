@@ -23,10 +23,19 @@ public class Transicao {
         this.simboloEmpilhar = simboloEmpilhar;
     }
 
-    // Getters
-    public String getEstadoAtual() { return estadoAtual; }
-    public char getSimboloEntrada() { return simboloEntrada; }
-    public char getSimboloDesempilhar() { return simboloDesempilhar; }
-    public String getEstadoDestino() { return estadoDestino; }
-    public char getSimboloEmpilhar() { return simboloEmpilhar; }
+    public String getEstadoAtual() { 
+        return estadoAtual; 
+    }
+    public char getSimboloEntrada() { 
+        return simboloEntrada; 
+    }
+    public char getSimboloDesempilhar() { 
+        return simboloDesempilhar; 
+    }
+    public String getEstadoDestino() { 
+        return estadoDestino; 
+    }
+    public char getSimboloEmpilhar() { 
+        return simboloEmpilhar; 
+    }
 }
